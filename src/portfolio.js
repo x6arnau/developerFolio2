@@ -32,10 +32,10 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/X6amau",
-  linkedin: "https://www.linkedin.com/in/arnaun13/",
-  gmail: "afnaun3@gmail.com",
-  gitlab: "https://gitlab.com/Xarnau13",
+  github: "https://github.com/x6arnau",
+  linkedin: "https://www.linkedin.com/in/arnaunl3/",
+  gmail: "arnaunl3@gmail.com",
+  gitlab: "https://gitlab.com/arnaunl3",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -61,7 +61,7 @@ const skillsSection = {
     },
     {
       skillName: "C#",
-      fontAwesomeClassname: "fas fa-code" // No specific C# icon, using generic code icon
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "SQL",
@@ -77,11 +77,11 @@ const skillsSection = {
     },
     {
       skillName: "Kotlin",
-      fontAwesomeClassname: "fab fa-android" // Using Android icon as a proxy for Kotlin
+      fontAwesomeClassname: "fab fa-android"
     },
     {
       skillName: "MongoDB",
-      fontAwesomeClassname: "fas fa-leaf" // No specific MongoDB icon, using leaf as proxy
+      fontAwesomeClassname: "fas fa-leaf"
     },
     {
       skillName: "Git",
@@ -104,7 +104,7 @@ const educationInfo = {
       schoolName: "Institut Provençana",
       logo: require("./assets/images/provenLogo.png"),
       subHeader: "Técnico Superior de Desarrollo de Aplicaciones Multiplataforma",
-      duration: "September 2023 - Present",
+      duration: "September 2023 - September 2025",
       desc: "Currently pursuing a higher technician degree in multiplatform application development.",
       descBullets: [
         "Specializing in Python, Java, C#, and database management",
@@ -243,24 +243,24 @@ const achievementSection = {
     {
       title: "Databases for Developers: Foundations",
       subtitle: "Completed foundational database course from Oracle Academy.",
-      image: require("./assets/images/oracleLogo.png"), // Replace with actual logo path
+      image: require("./assets/images/oracleLogo.png"),
       imageAlt: "Oracle Academy Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://academy.oracle.com/es" // Placeholder, replace with actual link if available
+          url: "https://academy.oracle.com/es"
         }
       ]
     },
     {
       title: "Analytic SQL for Developers",
       subtitle: "Completed advanced SQL course from Oracle Academy.",
-      image: require("./assets/images/oracleLogo.png"), // Replace with actual logo path
+      image: require("./assets/images/oracleLogo.png"),
       imageAlt: "Oracle Academy Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://academy.oracle.com/es" // Placeholder, replace with actual link if available
+          url: "https://academy.oracle.com/es"
         }
       ]
     }

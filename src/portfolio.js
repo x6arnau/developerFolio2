@@ -102,7 +102,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Institut Provençana",
-      logo: require("./assets/images/provenLogo.png"), // Replace with actual logo path
+      logo: require("./assets/images/provenLogo.png"),
       subHeader: "Técnico Superior de Desarrollo de Aplicaciones Multiplataforma",
       duration: "September 2023 - Present",
       desc: "Currently pursuing a higher technician degree in multiplatform application development.",
@@ -113,7 +113,7 @@ const educationInfo = {
     },
     {
       schoolName: "Oracle Academy",
-      logo: require("./assets/images/oracleLogo.png"), // Replace with actual logo path
+      logo: require("./assets/images/oracleLogo.png"),
       subHeader: "Databases for Developers: Foundations",
       duration: "September 2024 - December 2024",
       desc: "Completed online course on database foundations.",
@@ -121,7 +121,7 @@ const educationInfo = {
     },
     {
       schoolName: "Oracle Academy",
-      logo: require("./assets/images/oracleLogo.png"), // Replace with actual logo path
+      logo: require("./assets/images/oracleLogo.png"),
       subHeader: "Analytic SQL for Developers",
       duration: "September 2024 - December 2024",
       desc: "Completed online course on analytic SQL techniques.",
@@ -129,7 +129,7 @@ const educationInfo = {
     },
     {
       schoolName: "Estany de la Ricarda",
-      logo: require("./assets/images/estanyLogo.png"), // Replace with actual logo path
+      logo: require("./assets/images/estanyLogo.png"),
       subHeader: "Bachillerato Científico Tecnológico",
       duration: "September 2021 - June 2023",
       desc: "Completed scientific-technological baccalaureate.",

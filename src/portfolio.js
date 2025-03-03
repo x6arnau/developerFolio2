@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Arnau Núñez",
+  username: "Arnau Nunez",
   title: "Hi all, I'm Arnau",
   subTitle: emoji(
     "A passionate Multiplatform Application Developer 🚀 with expertise in building applications using Python, Java, C#, and database technologies like MySQL and MongoDB."  ),

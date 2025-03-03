@@ -162,17 +162,18 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: true, // Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Developer",
       company: "GIA Robotics",
       companylogo: require("./assets/images/giaRoboticsLogo.png"),
       date: "February 2025 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Developing and maintaining software solutions for robotic systems, ensuring high performance and reliability.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Collaborated with cross-functional teams to design and implement new features",
+        "Optimized existing codebase to improve performance and scalability",
+        "Participated in the full software development lifecycle, from requirements gathering to deployment"
       ]
     }
   ]

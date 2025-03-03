@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Multiplatform Application Developer 🚀 with expertise in building applications using Python, Java, C#, and database technologies like MySQL and MongoDB."  ),
   resumeLink:
-    "https://drive.usercontent.google.com/u/0/uc?id=1eoWHJQ3WXIQWSskblHMkOWkE4noCHGRP&export=download", // Set to empty to hide the button
+    "https://drive.google.com/uc?export=download&id=1eoWHJQ3WXIQWSskblHMkOWkE4noCHGRP", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
